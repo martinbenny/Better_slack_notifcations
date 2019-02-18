@@ -7,11 +7,11 @@ import json
 
 #################### CONFIG ####################
 
-slack_user = "UPDATE_name_of_slack_bot"
-slack_icon = ":neckbeard:"
-slack_channel_tv = "UPDATE_#_channel_name"
-slack_channel_movie = "UPDATE_#_channel_name"
-slack_url = "UPDATE_slack_hooks_URL"
+slack_user = "Notification Bot"  # User name to post under
+slack_icon = ":satellite_antenna:" # Slack icon for user
+slack_channel_tv = "#tv" # What channel to post TV notifcations
+slack_channel_movie = "#movies" # What channel to post Movie notifcations
+slack_url = "" #URL of your slack webhook
 
 sonarr_url = ""
 radarr_url = ""
