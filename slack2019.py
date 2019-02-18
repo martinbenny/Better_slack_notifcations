@@ -7,11 +7,11 @@ import json
 
 #################### CONFIG ####################
 
-slack_user = "Pal"
+slack_user = "UPDATE_name_of_slack_bot"
 slack_icon = ":neckbeard:"
-slack_channel_tv = "#dl"
-slack_channel_movie = "#dl"
-slack_url = "https://hooks.slack.com/services/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"
+slack_channel_tv = "UPDATE_#_channel_name"
+slack_channel_movie = "UPDATE_#_channel_name"
+slack_url = "UPDATE_slack_hooks_URL"
 
 sonarr_url = ""
 radarr_url = ""
